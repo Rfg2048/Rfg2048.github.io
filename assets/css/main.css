@@ -1381,7 +1381,7 @@ input, select, textarea {
 			display: block;
 			position: absolute;
 			top: 0;
-			/* left: calc(57% - 1px); */
+			left: calc(57% - 1px);
 			width: 1px;
 			height: 100%;
 			background: #ffffff;
